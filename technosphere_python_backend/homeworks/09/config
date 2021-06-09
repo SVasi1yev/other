@@ -1,0 +1,12 @@
+[Connection]
+port = 10001
+connections_number = 100
+timeout = 10
+
+[Logs]
+file = 
+
+[Workers config]
+workers_num = 4
+top_n = 10
+

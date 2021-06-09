@@ -1,0 +1,12 @@
+[API]
+url = https://kinopoiskapiunofficial.tech/api/v2.1/films
+key = a6c2cb4d-932a-4062-a09d-0df9df0006e2
+
+[Connection]
+port = 10001
+connections_number = 10
+timeout = 10
+
+[Logs]
+file = 
+
