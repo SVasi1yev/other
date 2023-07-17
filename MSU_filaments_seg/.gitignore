@@ -1,0 +1,15 @@
+*.fits
+*.fit
+*.jpg
+*.png
+*.gz
+*.txt
+*.csv
+*.json
+/_disperse*
+/MGS
+/SDSS
+/.ipynb_checkpoints
+/__pycache__
+*.pkl
+*.npy
